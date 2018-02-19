@@ -1,3 +1,5 @@
+encrypt:
+  key: ABC
 spring:
   application:
     name: demo
