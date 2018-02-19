@@ -1,3 +1,9 @@
+security:
+  basic:
+    enabled: true
+  user:
+    name: cloud
+    password: config
 server:
   port: 8888
 spring:
